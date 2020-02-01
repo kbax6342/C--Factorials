@@ -1,0 +1,11 @@
+/Users/pwispassword/Desktop/Visual C#/Factorials/obj/Debug/netcoreapp3.1/Factorials.csprojAssemblyReference.cache
+/Users/pwispassword/Desktop/Visual C#/Factorials/obj/Debug/netcoreapp3.1/Factorials.AssemblyInfoInputs.cache
+/Users/pwispassword/Desktop/Visual C#/Factorials/obj/Debug/netcoreapp3.1/Factorials.AssemblyInfo.cs
+/Users/pwispassword/Desktop/Visual C#/Factorials/bin/Debug/netcoreapp3.1/Factorials
+/Users/pwispassword/Desktop/Visual C#/Factorials/bin/Debug/netcoreapp3.1/Factorials.deps.json
+/Users/pwispassword/Desktop/Visual C#/Factorials/bin/Debug/netcoreapp3.1/Factorials.runtimeconfig.json
+/Users/pwispassword/Desktop/Visual C#/Factorials/bin/Debug/netcoreapp3.1/Factorials.runtimeconfig.dev.json
+/Users/pwispassword/Desktop/Visual C#/Factorials/bin/Debug/netcoreapp3.1/Factorials.dll
+/Users/pwispassword/Desktop/Visual C#/Factorials/bin/Debug/netcoreapp3.1/Factorials.pdb
+/Users/pwispassword/Desktop/Visual C#/Factorials/obj/Debug/netcoreapp3.1/Factorials.dll
+/Users/pwispassword/Desktop/Visual C#/Factorials/obj/Debug/netcoreapp3.1/Factorials.pdb
